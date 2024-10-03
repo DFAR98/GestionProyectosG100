@@ -1,0 +1,6 @@
+[Bb]uild/*
+![Bb]uild/**/*.uf2
+![Bb]uild/**/*.hex
+![Bb]uild/**/*.elf
+![Bb]uild/**/*.bin
+.vscode/
